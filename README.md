@@ -4,7 +4,7 @@
 
 🔭 I'm a **42-school student** and I've been coding since May 2023.
 
-🎓 I have a Master's degree in Digital Law and used to work as an IT jurist.
+🎓 I have a Master's degree in **Digital Law** and used to work as an IT jurist.
 
 🌱 I’m currently perfecting my learning of the **C language** and I'll soon be diving into **C++**.
 
