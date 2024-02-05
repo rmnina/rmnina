@@ -8,7 +8,7 @@
 
 🚀 I'm a science enjoyer, and would love to **build spaceships** or work in **astrophysics**.
 
-💬 You can reach me through my  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jovica-dufour/).
+💬 You can reach me through my  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jovica-dufour-34230bb9?/).
 
 ⭐ Please feel free to navigate through my projects. Many more are to come !
 
