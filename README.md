@@ -6,7 +6,7 @@
 
 🎓 I have a Master's degree in **Digital Law** and used to work as an IT jurist.
 
-🌱 I started coding with the **C language** and I'm currently learning **C++**.
+🌱 I code in **C** and **C++**.
 
 🚀 I'm a science enjoyer, and would love to **build spaceships** or work in **astrophysics**.
 
