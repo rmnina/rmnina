@@ -6,9 +6,9 @@
 
 🎓 I have a Master's degree in **Digital Law** and used to work as an IT jurist.
 
-🌱 I code in **C** and **C++**.
+🌱 I mostly code in **C** and **C++**. I plan on specializing in low-level programmation and hardware.
 
-🚀 I'm a science enjoyer, and would love to **build spaceships** or work in **astrophysics**.
+🚀 I'm a **space** and **science** enjoyer. 
 
 💬 You can reach me through my  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jovica-dufour-34230bb9?/).
 
