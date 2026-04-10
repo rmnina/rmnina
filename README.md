@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rmnina&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+🔭 I'm a **42-school student**, looking to improve my skills and learn new ones.
 
-🔭 I'm a **42-school student** and I've been coding since May 2023.
-
-🎓 I have a Master's degree in **Digital Law** and used to work as an IT jurist.
+🎓 Prior to this, I got a Master's degree in **Digital Law** and worked as an IT lawyer.
 
 🌱 I code in **C**, **C++** and Python.
 
