@@ -6,7 +6,7 @@
 
 🎓 I have a Master's degree in **Digital Law** and used to work as an IT jurist.
 
-🌱 I mostly code in **C** and **C++**. I plan on specializing in low-level programmation and hardware.
+🌱 I code in **C**, **C++** and Python.
 
 🚀 I'm a **space** and **science** enjoyer. 
 
