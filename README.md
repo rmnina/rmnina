@@ -4,6 +4,8 @@
 
 🚀 I am exploring software engineering, data science and low-level development.
 
+🛠️ I mostly code in Python, C, C++, and am currently learning Go.
+
 💬 You can reach me through my  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jovica-dufour-34230bb9?/).
 
 
